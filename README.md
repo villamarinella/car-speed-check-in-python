@@ -17,7 +17,7 @@ check you must have: ls -l /dev/video0
 
 You will find:
 
-lr.mp4                  the video for testing
+rl.mp4                  the video for testing
 
 speed_video.py   working with videos
 
