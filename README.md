@@ -1,6 +1,3 @@
-Something is wrong here,
-cannot upload zip, mp4 or jpg.
-
 
 Simple programm to measure the car speed between two gates
 
