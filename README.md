@@ -1,5 +1,9 @@
-# car-speed-check-in-python
+Something is wrong here,
+cannot upload zip, mp4 or jpg.
+
+
 Simple programm to measure the car speed between two gates
+
 script is in python 2.7
 
 tested on Ubuntu 14.04 and Raspian wheezy
@@ -35,4 +39,3 @@ form follows function:-)
 Stay lucky
 
 Klaus Werner
-
