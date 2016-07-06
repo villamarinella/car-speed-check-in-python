@@ -1,9 +1,14 @@
+Simple programm to measure the car speed between two "gates", means to lines of pixels.
 
-Simple programm to measure the car speed between two gates
+The script is in python 2.7
 
-script is in python 2.7
+It is running on  Ubuntu 14.04 and Raspian wheezy.
 
-tested on Ubuntu 14.04 and Raspian wheezy
+Because the Raspberry is too weak, so it only transfers the video signal via LAN to the Ubuntu machine.
+
+As well my Ubuntu machine needs 100% CPU to run the job.
+
+You need:
 
 On Raspberry Pi install uv4l from here:
 
@@ -17,17 +22,16 @@ check you must have: ls -l /dev/video0
 
 You will find:
 
-rl.mp4                  the video for testing
+The video on youtube
 
-speed_video.py   working with videos
+https://youtu.be/4s2b6HW9TXM
 
-speed_usb.py      working with usb camera
+lr.py        For cars from left to right
+lr_lib.py   lr.py need it
 
-speed_pi.py         working with Pi and raspicam
+rl.py        For cars from right to left
+rl_lib.py    rl.py need it
 
-Try to understand with python speed_video.py
-
-For Your belongings change the code lines I have prepared with "##"
 
 Yes, I know, the code is terrible, but it works:-)
 
